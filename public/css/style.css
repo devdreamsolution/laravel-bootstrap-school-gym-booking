@@ -1,0 +1,32 @@
+body
+{
+    font-size: 13px;
+}
+
+.form-control
+{
+    font-size: 13px;
+}
+
+.nav-link i
+{
+    margin-right: 6px;
+}
+
+.content
+{
+    margin-top: 20px;
+    margin-bottom: 50px;
+}
+
+.btn-xs
+{
+    font-size: .7rem;
+
+    padding: .2rem .4rem;
+}
+
+.swal-footer
+{
+    text-align: center;
+}
